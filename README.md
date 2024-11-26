@@ -10,7 +10,7 @@ I will be using the following elements :
 
 ![Screenshots](https://i.imgur.com/Fflqnr8.png)
 
-![Screenshots](https://imgur.com/a/wn43tPI.jpg)
+![Screenshots](https://i.imgur.com/nfT554I.png)
 
 
 
