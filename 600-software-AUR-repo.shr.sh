@@ -75,7 +75,7 @@ for name in "${list[@]}" ; do
 done
 
 cp -r /usr/share/oh-my-zsh ~/.oh-my-zsh
-cp -r Personal/theme/parrot.zsh-theme ~/.oh-my-zsh/themes
+cp -r Personal/themes/parrot.zsh-theme ~/.oh-my-zsh/themes
 sudo chsh $USER -s /bin/zsh
 ###############################################################################
 
